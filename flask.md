@@ -8,27 +8,28 @@
 win + R 打开运行框
 ```
 
-<img src="https://github.com/what1115/2024python/blob/main/img/img_1.png">
-
 ![Image](https://github.com/what1115/2024python/blob/main/img/img_1.png?raw=true)
 
-<img src=".\img\img_1.png">
 
 第二步：在终端中输入以下命令创建虚拟环境
 
 ```
 virtualenv "虚拟环境名称"
 ```
+
 <img src=".\img\img_2.png">
 
 出现
+
 <img src=".\img\img_3.png">
+
 则创建成功
 二： 使用虚拟环境
 
 ```
 D:\env>.\flask_env\Scripts\activate   # “flask_env” 是虚拟环境名称
 ```
+
 出现
 
 <img src=".\img\img_4.png">
@@ -78,6 +79,7 @@ if __name__ == '__main__':
 
 <img src=".\img\img_11.png">
 
+
 运行app.py文件
 ```
 Shift + F10
@@ -102,4 +104,9 @@ http://127.0.0.1:5000/
 
 <img src=".\img\img_13.png">
 
+
 ### 完成第一个Flask程序开发
+
+
+
+
