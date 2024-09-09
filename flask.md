@@ -32,7 +32,8 @@ D:\env>.\flask_env\Scripts\activate   # “flask_env” 是虚拟环境名称
 
 出现
 
-<img src="https://postimg.cc/gallery/FKPGnfv">
+<img src="https://i.postimg.cc/J0bBwW1b/img-4.png">
+
 
 则激活成功
 
@@ -44,7 +45,7 @@ D:\env>.\flask_env\Scripts\activate   # “flask_env” 是虚拟环境名称
 ```
 出现下图则安装成功
 
-<img src=".https://i.postimg.cc/vTpxkZF8/image.png">
+<img src="https://i.postimg.cc/JzTHCxWd/img-5.png">
 
 ### 在pycharm中配置虚拟环境
 
@@ -55,9 +56,10 @@ D:\env>.\flask_env\Scripts\activate   # “flask_env” 是虚拟环境名称
 
 点击创建
 
-新建一个app.py文件，
+新建一个app.py文件
 
-<img src="https://postimg.cc/gallery/n71dbH6">
+
+<img src="https://i.postimg.cc/N0Sy50F6/img-7.png">
 <img src="https://i.postimg.cc/DzBJFgkM/image.png">
 <img src="https://i.postimg.cc/pTr9dFPX/image.png">
 
