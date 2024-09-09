@@ -7,17 +7,17 @@
 ```
 win + R 打开运行框
 ```
-![img_1.png](.\img\img_1.png)
+<img src=".\img\img_1.png">
 
 第二步：在终端中输入以下命令创建虚拟环境
 
 ```
 virtualenv "虚拟环境名称"
 ```
-![img_2.png](.\img\img_2.png)
+<img src=".\img\img_2.png">
 
 出现
-![img_3.png](.\img\img_3.png)
+<img src=".\img\img_3.png">
 则创建成功
 二： 使用虚拟环境
 
@@ -26,7 +26,7 @@ D:\env>.\flask_env\Scripts\activate   # “flask_env” 是虚拟环境名称
 ```
 出现
 
-![img_4.png](.\img\img_4.png)
+<img src=".\img\img_4.png">
 
 则激活成功
 
@@ -38,21 +38,21 @@ D:\env>.\flask_env\Scripts\activate   # “flask_env” 是虚拟环境名称
 ```
 出现下图则安装成功
 
-![img_5.png](.\img\img_5.png)
+<img src=".\img\img_5.png">
 
 ### 在pycharm中配置虚拟环境
 
 打开PyCharm，点击菜单栏File -> New project ->
 
-![img_6.png](.\img\img_6.png)
+<img src=".\img\img_6.png">
 
 点击创建
 
 新建一个app.py文件，
 
-![img_7.png](.\img\img_7.png)
-![img_8.png](.\img\img_8.png)
-![img_9.png](.\img\img_9.png)
+<img src=".\img\img_7.png">
+<img src=".\img\img_8.png">
+<img src=".\img\img_9.png">
 
 配置python解释器(选择刚才创建的虚拟环境)
 
@@ -71,7 +71,7 @@ if __name__ == '__main__':
     app.run()
 ```
 
-![img_11.png](.\img\img_11.png)
+<img src=".\img\img_11.png">
 
 运行app.py文件
 ```
@@ -80,7 +80,7 @@ Shift + F10
 
 出现
 
-![img_10.png](.\img\img_10.png)
+<img src=".\img\img_10.png">
 
 则运行成功
 
@@ -91,10 +91,10 @@ Shift + F10
 http://127.0.0.1:5000/
 ```
 
-![img_12.png](.\img\img_12.png)
+<img src=".\img\img_12.png">
 
 回车后出现
 
-![img_13.png](.\img\img_13.png)
+<img src=".\img\img_13.png">
 
 ### 完成第一个Flask程序开发
