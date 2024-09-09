@@ -50,7 +50,6 @@ D:\env>.\flask_env\Scripts\activate   # “flask_env” 是虚拟环境名称
 
 打开PyCharm，点击菜单栏File -> New project ->
 
-<img src=".\img\img_6.png">
 <img src="https://i.postimg.cc/cJY9brpC/image.png">
 
 
