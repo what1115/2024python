@@ -8,7 +8,7 @@
 win + R 打开运行框
 ```
 
-![Image](https://github.com/what1115/2024python/blob/main/img/img_1.png?raw=true)
+![Image](https://i.postimg.cc/vmz9Ty9X/image.png)
 
 
 第二步：在终端中输入以下命令创建虚拟环境
@@ -17,11 +17,11 @@ win + R 打开运行框
 virtualenv "虚拟环境名称"
 ```
 
-<img src=".\img\img_2.png">
+<img src="https://i.postimg.cc/HxkM7N9m/image.png">
 
 出现
 
-<img src=".\img\img_3.png">
+<img src="https://i.postimg.cc/KzpM750M/image.png">
 
 则创建成功
 二： 使用虚拟环境
@@ -32,7 +32,7 @@ D:\env>.\flask_env\Scripts\activate   # “flask_env” 是虚拟环境名称
 
 出现
 
-<img src=".\img\img_4.png">
+<img src="https://postimg.cc/gallery/FKPGnfv">
 
 则激活成功
 
@@ -44,7 +44,7 @@ D:\env>.\flask_env\Scripts\activate   # “flask_env” 是虚拟环境名称
 ```
 出现下图则安装成功
 
-<img src=".\img\img_5.png">
+<img src=".https://i.postimg.cc/vTpxkZF8/image.png">
 
 ### 在pycharm中配置虚拟环境
 
@@ -57,9 +57,9 @@ D:\env>.\flask_env\Scripts\activate   # “flask_env” 是虚拟环境名称
 
 新建一个app.py文件，
 
-<img src=".\img\img_7.png">
-<img src=".\img\img_8.png">
-<img src=".\img\img_9.png">
+<img src="https://postimg.cc/gallery/n71dbH6">
+<img src="https://i.postimg.cc/DzBJFgkM/image.png">
+<img src="https://i.postimg.cc/pTr9dFPX/image.png">
 
 配置python解释器(选择刚才创建的虚拟环境)
 
@@ -78,7 +78,7 @@ if __name__ == '__main__':
     app.run()
 ```
 
-<img src=".\img\img_11.png">
+<img src="https://i.postimg.cc/w383F4L7/image.png">
 
 
 运行app.py文件
@@ -88,7 +88,7 @@ Shift + F10
 
 出现
 
-<img src=".\img\img_10.png">
+<img src="https://i.postimg.cc/59ZmZxmF/image.png">
 
 则运行成功
 
@@ -99,11 +99,11 @@ Shift + F10
 http://127.0.0.1:5000/
 ```
 
-<img src=".\img\img_12.png">
+<img src="https://i.postimg.cc/Jnsb2gDq/image.png">
 
 回车后出现
 
-<img src=".\img\img_13.png">
+<img src="https://i.postimg.cc/k4Lx3cWd/image.png">
 
 
 ### 完成第一个Flask程序开发
