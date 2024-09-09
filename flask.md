@@ -8,8 +8,11 @@
 win + R 打开运行框
 ```
 ![img_1.png](.\img\img_1.png)
+
 <img src="https://github.com/what1115/2024python/blob/main/img/img_1.png">
+
 ![Image](https://github.com/what1115/2024python/blob/main/img/img_1.png)
+
 <img src=".\img\img_1.png">
 
 第二步：在终端中输入以下命令创建虚拟环境
